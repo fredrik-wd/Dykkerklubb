@@ -1,0 +1,101 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: verdana;
+}
+
+body {
+    background-color:darkgrey;
+    margin:0px;
+    margin-top:90px;
+}
+
+div.div-a {
+    float:left;
+    background-color:#4169E1;
+    color:white;
+    padding:35px;
+    padding-top:0px;
+    margin:25px;
+    width:50%;
+}
+
+div.div-b {
+    float:right;
+    background-color:#4169E1;
+    color:white;
+    padding:35px;
+    padding-top:0px;
+    margin:25px;
+    width:30%;
+    position:top;
+    overflow:hidden;
+}
+
+img {
+    margin:-2px;
+}
+
+
+.ip1 {
+    width:40px;
+}
+
+.button {
+    background-color: #e7e7e7; 
+    color: black;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #d0d0d0;
+    color: black;
+}
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position:fixed;
+    top:0;
+    width:100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-family: verdana;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.main {
+    background-color:#585858;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+p.p-1 {
+    color:orange;
+    font-size:30px;
+}
