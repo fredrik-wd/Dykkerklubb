@@ -4,12 +4,12 @@
     <title>Kalkulator</title>
     <meta name="robots" content="noindex, nofollow, noarchive">
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="https://fwinvest.eu/css/gamma.css">
-    <meta name="INFO" content="THIS PART OF THE WEBSITE (FWINVEST.EU/IT/) IS NOT TO BE ASSOCIATED WITH FONNWESSEL GROUP AND IS NOT MEANT FOR PUBLIC OR COMMERCIAL USE. THIS SITE IS RESERVED FOR EDUCATIONAL PURPOSES ONLY. CONTACT SUPPORT@FWINVEST.EU IF YOU HAVE ANY INQUIRIES REGARDING THIS WEBSITE.">
+    <link rel="stylesheet" type="text/css" href="link-is-hidden">
+  
 </head>
 <body>
     <ul>
-            <li><a href="https://fwinvest.eu/it/dykk/index.html" class="main">TILBAKE</a></li>
+            <li><a href="link-is-hidden" class="main">TILBAKE</a></li>
         </ul>
     
     <div class="div-a">
